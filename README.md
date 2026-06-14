@@ -590,10 +590,3 @@ This repository demonstrates:
 # Conclusion
 
 This repository presents the implementation and verification of six fundamental counter designs using Verilog HDL. The simulation results confirm the correct operation of each counter and provide practical experience in sequential digital circuit design.
-
----
-
-## Author
-
-**N S Farhana**
-Electronics and Communication Engineering Student
